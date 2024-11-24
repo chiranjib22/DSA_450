@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// time O(n), space O(1)
 pair<int, int> getMinMax(int arr[], int n)
 {
   pair<int, int> minMax;
